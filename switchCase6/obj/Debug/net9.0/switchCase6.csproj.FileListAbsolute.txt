@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.sourcelink.json
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\bin\Debug\net9.0\switchCase6.exe
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\bin\Debug\net9.0\switchCase6.deps.json
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\bin\Debug\net9.0\switchCase6.runtimeconfig.json
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\bin\Debug\net9.0\switchCase6.dll
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\bin\Debug\net9.0\switchCase6.pdb
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.dll
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\refint\switchCase6.dll
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.pdb
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\switchCase6.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\cs-harp\switchCase6\obj\Debug\net9.0\ref\switchCase6.dll

@@ -1,0 +1,14 @@
+C:\Users\trost\Desktop\C#\rd3\bin\Debug\net9.0\3rd.exe
+C:\Users\trost\Desktop\C#\rd3\bin\Debug\net9.0\3rd.deps.json
+C:\Users\trost\Desktop\C#\rd3\bin\Debug\net9.0\3rd.runtimeconfig.json
+C:\Users\trost\Desktop\C#\rd3\bin\Debug\net9.0\3rd.dll
+C:\Users\trost\Desktop\C#\rd3\bin\Debug\net9.0\3rd.pdb
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.dll
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\refint\3rd.dll
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.pdb
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\3rd.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\rd3\obj\Debug\net9.0\ref\3rd.dll

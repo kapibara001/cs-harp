@@ -66,14 +66,31 @@ namespace arrays {
                 for (int j = 0; j < nums2.GetLength(1); j++) {
                     Console.Write(nums2[i, j]);
                 }
-            }
+            } 
+            Console.WriteLine("\n");
 
             
         // Практическое задание
             Console.Write("Введите количество элементов в первом массиве: ");
-            uint numbers1 = (Console.ReadLine());
+            uint numbers1 = Convert.ToUInt16(Console.ReadLine());
 
-        }
+            short[,] numlist = new short[3,numbers1]; 
+ 
+            Random rand = new Random(); 
+            for (int i=0; i<numlist.GetLength(0); i++) { 
+                for (int j=0; j<numlist.GetLength(1); j++) { 
+                    numlist[i,j] = Convert.ToInt16(random.Next(-100, 100)); 
+                } 
+            } 
+
+            Console.Write("Элементы получившегося списка: ");
+            for (int i=0; i<numlist.GetLength(0); i++) { 
+                for (int j=0; j<numlist.GetLength(1); j++) { 
+                    Console.Write(numlist[i, j] + " "); 
+                } 
+            }
+            Console.WriteLine("\nИтого {0} элементов.", 3*numbers1);
+        }   
 
 
     }
