@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\bin\Debug\net9.0\foreach9.exe
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\bin\Debug\net9.0\foreach9.deps.json
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\bin\Debug\net9.0\foreach9.runtimeconfig.json
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\bin\Debug\net9.0\foreach9.dll
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\bin\Debug\net9.0\foreach9.pdb
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.sourcelink.json
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.dll
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\refint\foreach9.dll
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.pdb
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\foreach9.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\cs-harp\foreach9\obj\Debug\net9.0\ref\foreach9.dll
