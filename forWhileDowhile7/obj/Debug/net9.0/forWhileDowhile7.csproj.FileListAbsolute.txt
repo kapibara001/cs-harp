@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\bin\Debug\net9.0\forWhileDowhile7.exe
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\bin\Debug\net9.0\forWhileDowhile7.deps.json
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\bin\Debug\net9.0\forWhileDowhile7.runtimeconfig.json
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\bin\Debug\net9.0\forWhileDowhile7.dll
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\bin\Debug\net9.0\forWhileDowhile7.pdb
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.sourcelink.json
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.dll
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\refint\forWhileDowhile7.dll
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.pdb
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\forWhileDowhile7.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\cs-harp\forWhileDowhile7\obj\Debug\net9.0\ref\forWhileDowhile7.dll
