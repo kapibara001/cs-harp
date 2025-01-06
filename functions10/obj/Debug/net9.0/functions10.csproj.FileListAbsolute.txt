@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\C#\cs-harp\functions10\bin\Debug\net9.0\functions10.exe
+C:\Users\trost\Desktop\C#\cs-harp\functions10\bin\Debug\net9.0\functions10.deps.json
+C:\Users\trost\Desktop\C#\cs-harp\functions10\bin\Debug\net9.0\functions10.runtimeconfig.json
+C:\Users\trost\Desktop\C#\cs-harp\functions10\bin\Debug\net9.0\functions10.dll
+C:\Users\trost\Desktop\C#\cs-harp\functions10\bin\Debug\net9.0\functions10.pdb
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.sourcelink.json
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.dll
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\refint\functions10.dll
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.pdb
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\functions10.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\cs-harp\functions10\obj\Debug\net9.0\ref\functions10.dll
