@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\bin\Debug\net9.0\Arrays8.exe
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\bin\Debug\net9.0\Arrays8.deps.json
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\bin\Debug\net9.0\Arrays8.runtimeconfig.json
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\bin\Debug\net9.0\Arrays8.dll
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\bin\Debug\net9.0\Arrays8.pdb
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.sourcelink.json
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.dll
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\refint\Arrays8.dll
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.pdb
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\Arrays8.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\cs-harp\Arrays8\obj\Debug\net9.0\ref\Arrays8.dll
