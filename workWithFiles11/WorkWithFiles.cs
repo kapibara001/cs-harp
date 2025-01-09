@@ -38,11 +38,9 @@ namespace files {
             
         // РАБОТА С ФАЙЛАМИ
         // Для работы с ними надо подключить библеотеку System.IO;
-
             using(FileStream stream = new FileStream("info.txt", FileMode.OpenOrCreate)) { //Изоляция кода с помощью using()
                 // класс FileSteam позволяет открыть файл для чтения или записи. Выделаем память, задаем ему имя и метод открытия(создание, открытие или создание и тп)
-                Console.Write("Введите текст, который будет записан в файл: ");
-                string usertext = Console.ReadLine();
+                string usertext = "Hello world!";
                 // Далее необходимо полученный текст преобразовать в байты(0 и 1) для передачи в файл
                 byte[] array = System.Text.Encoding.Default.GetBytes(usertext); // преобразование текста в массив байтов
                 
@@ -55,8 +53,69 @@ namespace files {
                 stream1.Read(array, 0, array.Length);
 
                 string textFromFile = System.Text.Encoding.Default.GetString(array);
-                Console.WriteLine(textFromFile);
-            }   
+                Console.WriteLine("Текст из файла:\n" + textFromFile.Trim());
+            }
+
+
+        // Современный вариатив. Его приемуществом является то, что не надо вручную открывать и закрывать потоки FileStream, методы .WriteAllText и .ReadAllText делают это автоматом
+        // FileStream нужно применять, когда нужно больше контроля над входными и выходными данными
+            string filePath = "myfile2.txt";
+            string text = "Putin pidoras, sin shluhi, ya ebal ego";
+
+            //Запись текста в файл
+            File.WriteAllText(filePath, text, System.Text.Encoding.Default); 
+
+            // Чтение текста из файла
+            string textFromF = File.ReadAllText(filePath, System.Text.Encoding.Default);
+            Console.WriteLine(textFromF.Trim());
+
+
+
+        // Небольшая практика
+        /*
+            using(FileStream main_input = new FileStream("myfile.txt", FileMode.OpenOrCreate)) {
+                string text = "Putin pidoras, sin shluhi, ya ebal ego";
+                byte[] array = System.Text.Encoding.Default.GetBytes(text);
+                main_input.Write(array, 0, array.Length);
+            }
+            using(FileStream main_output = File.OpenRead("myfile.txt")) {
+                byte[] array = new byte[main_output.Length];
+                main_output.Read(array, 0, array.Length);
+                string text_fromfile = System.Text.Encoding.Default.GetString(array);
+                Console.WriteLine(text_fromfile.Trim());
+            }
+        */
+
+            Console.Write("Привет! Что ты хочешь сделать?\n0 - отмена, 1 - создать файлик или добавить в него что-то, 2 - прочитать все из файлика: ");
+            string theme = Console.ReadLine();
+
+            switch(theme) {
+                case "1":
+                    using (FileStream filename = new FileStream("theme.txt", FileMode.OpenOrCreate)) {
+                        Console.Write("Напишите задачу, которую хотите поместить в файл: ");
+                        string exersize = Console.ReadLine();
+                        exersize += "\n";
+                        byte[] array = System.Text.Encoding.Default.GetBytes(exersize);
+                        filename.Write(array, 0, array.Length);
+                    }
+                    break;
+
+                case "2":
+                    string alltext = File.ReadAllText("theme.txt", System.Text.Encoding.Default);
+                    if (alltext == "" || alltext == " ") {
+                        Console.WriteLine("В файле пусто");
+                    } else {
+                        Console.WriteLine(alltext.Trim());
+                    }
+                    break;
+`                    
+                default:
+                    Console.WriteLine("Отмена.");
+                    break;
+            }
+                
+            
+            
         }
     }
 }
