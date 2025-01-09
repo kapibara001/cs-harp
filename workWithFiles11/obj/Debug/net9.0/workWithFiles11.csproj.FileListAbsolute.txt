@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\bin\Debug\net9.0\workWithFiles11.exe
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\bin\Debug\net9.0\workWithFiles11.deps.json
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\bin\Debug\net9.0\workWithFiles11.runtimeconfig.json
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\bin\Debug\net9.0\workWithFiles11.dll
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\bin\Debug\net9.0\workWithFiles11.pdb
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.AssemblyInfo.cs
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.sourcelink.json
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.dll
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\refint\workWithFiles11.dll
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.pdb
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\workWithFiles11.genruntimeconfig.cache
+C:\Users\trost\Desktop\C#\cs-harp\workWithFiles11\obj\Debug\net9.0\ref\workWithFiles11.dll
