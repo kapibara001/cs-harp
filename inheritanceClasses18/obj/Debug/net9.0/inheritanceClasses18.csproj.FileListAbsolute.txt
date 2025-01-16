@@ -1,0 +1,15 @@
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.AssemblyInfoInputs.cache
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.AssemblyInfo.cs
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.csproj.CoreCompileInputs.cache
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.sourcelink.json
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\bin\Debug\net9.0\inheritanceClasses18.exe
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\bin\Debug\net9.0\inheritanceClasses18.deps.json
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\bin\Debug\net9.0\inheritanceClasses18.runtimeconfig.json
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\bin\Debug\net9.0\inheritanceClasses18.dll
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\bin\Debug\net9.0\inheritanceClasses18.pdb
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.dll
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\refint\inheritanceClasses18.dll
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.pdb
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\inheritanceClasses18.genruntimeconfig.cache
+C:\Users\trost\Desktop\cs-harp\inheritanceClasses18\obj\Debug\net9.0\ref\inheritanceClasses18.dll
