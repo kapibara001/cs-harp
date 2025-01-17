@@ -12,6 +12,7 @@ namespace inheritanceClasses18 {
 
         public void Lazer() {
             Console.WriteLine("TSHHHHHH - Lazer Killer");
+            this.surName = "Killerovich"; // Редактирование поля с мод. доступа protected
         }
 
         public Killer() {}

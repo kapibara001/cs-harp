@@ -10,8 +10,8 @@ namespace inheritanceClasses18 {
 
         private string allinfoaboutrobot = "";
     // protected - модификатор доступа, при котором поле доступно в самом классе, где поле или метод создано и в классах наследниках
-
-
+    // Но если мы попробуем обратиться к полю в файле Program.cs, то ничего у нас не выйдет, будет ошибка
+        protected string surName;
         public Robot() {}
         public Robot(string name, short weight, byte[] coordinates, byte health) {
             Console.WriteLine("\nObject has been created");

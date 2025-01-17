@@ -11,6 +11,7 @@ namespace inheritanceClasses18 {
             // Matvey.Health = 15;  // Этот аксессор мы добавили только в классе Killer. 
                                     // То есть он будет доступен в объектах класса Killer, а в объектах класса Robot и его других наследниках - нет.
             killer.Lazer();
+            //killer.surName = "123"; // будет выдавать ошибку
             //Matvey.PrintInfoAboutRobot();
 
             Hiller hiller = new Hiller("Nikita", 45, new byte[] {10, 2, 2}, 75, 100);
