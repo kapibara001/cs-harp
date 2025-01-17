@@ -1,38 +1,46 @@
 using System;
+using System.Reflection.Metadata.Ecma335;
 
-namespace arrayOfPointers19 {
+namespace arrayOfPointers_IsAs19 {
     class Robot {
-        private string? typeRobot, name;
+        private string? name;
         private uint? weight;
         private byte? speed;
         private string? allinfo = "";
 
+        public string Name {
+            get {
+                return name;
+            }
+            private set {} // Сделали так, чтобы нельзя было 
+        }
 
         public Robot() {} // Установка конструктора по умолчанию
-        public Robot(string typeRobot, string name, uint weight, byte speed) {
-            setValues(typeRobot, name, weight, speed);
+        public Robot(string name) {
+
+        }
+        public Robot(string name, uint weight, byte speed) {
+            setValues(name, weight, speed);
             inputInfoAboutRobot();
             Console.WriteLine($"!!!     Данные {name} заданы     !!!");
         }
 
-        public void setValues(string typeRobot, string name, uint weight, byte speed) {
-            this.typeRobot = typeRobot;
+        public void setValues(string name, uint weight, byte speed) {
             this.name = name;
             this.weight = weight;
             this.speed = speed;
         } 
 
         public void inputInfoAboutRobot() {
-            allinfo += $"Robot type: {typeRobot}\n";
             allinfo += $"Name: {name}\n";
             allinfo += $"Weight: {weight}\n";
             allinfo += $"Speed: {speed}\n";
         }
         public void addInfoAboutRobot(string text) {
-            allinfo += text;
+            allinfo += text + "\n";
         }
         public void printInfoAboutRobot() {
-            Console.WriteLine(allinfo);
+            Console.Write(allinfo);
         }
     }
 }
