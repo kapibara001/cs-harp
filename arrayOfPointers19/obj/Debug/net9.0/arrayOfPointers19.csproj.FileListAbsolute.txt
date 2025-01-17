@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.AssemblyInfo.cs
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.sourcelink.json
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\bin\Debug\net9.0\arrayOfPointers19.exe
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\bin\Debug\net9.0\arrayOfPointers19.deps.json
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\bin\Debug\net9.0\arrayOfPointers19.runtimeconfig.json
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\bin\Debug\net9.0\arrayOfPointers19.dll
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\bin\Debug\net9.0\arrayOfPointers19.pdb
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.dll
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\refint\arrayOfPointers19.dll
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.pdb
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\arrayOfPointers19.genruntimeconfig.cache
+C:\Users\PC\Desktop\cs-harp\arrayOfPointers19\obj\Debug\net9.0\ref\arrayOfPointers19.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arrayOfPointers19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d78e24195c4950524fa0df663e2eebe2161f6ac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd4e7b28b258d338e21b61d11fd1475f0ebe71e")]
 [assembly: System.Reflection.AssemblyProductAttribute("arrayOfPointers19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arrayOfPointers19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
