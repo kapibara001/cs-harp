@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\cs-harp\\VirtualMethods20\\VirtualMethods20.csproj": {}
+    "C:\\Users\\PC\\Desktop\\cs-harp\\abstractMethods21\\VirtualMethods20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\cs-harp\\VirtualMethods20\\VirtualMethods20.csproj": {
+    "C:\\Users\\PC\\Desktop\\cs-harp\\abstractMethods21\\VirtualMethods20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\cs-harp\\VirtualMethods20\\VirtualMethods20.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\cs-harp\\abstractMethods21\\VirtualMethods20.csproj",
         "projectName": "VirtualMethods20",
-        "projectPath": "C:\\Users\\PC\\Desktop\\cs-harp\\VirtualMethods20\\VirtualMethods20.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\cs-harp\\abstractMethods21\\VirtualMethods20.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\cs-harp\\VirtualMethods20\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\cs-harp\\abstractMethods21\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

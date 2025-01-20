@@ -10,9 +10,9 @@ namespace VirtualMethods20 {
         }
 
         public override void printCarValues() { 
-            base.printCarValues();
+            //base.printCarValues(); Ошибка, т.к сделали метод абстрактным
 
-            Console.Write($"Width: {this.width}m");
+           Console.WriteLine($"\nType: {this.Type}\nPrice: ${this.Price}\nWeight/Height: {this.Weight}/{this.Lenght}\nWidth: {this.width}");
         } 
     }
 }
