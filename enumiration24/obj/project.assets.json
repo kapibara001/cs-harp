@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Users\\trost\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\cs-harp\\enumiration24\\VirtualMethods20.csproj",
+      "projectUniqueName": "C:\\Users\\trost\\Desktop\\cs-harp\\enumiration24\\VirtualMethods20.csproj",
       "projectName": "VirtualMethods20",
-      "projectPath": "C:\\Users\\PC\\Desktop\\cs-harp\\enumiration24\\VirtualMethods20.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\cs-harp\\enumiration24\\obj\\",
+      "projectPath": "C:\\Users\\trost\\Desktop\\cs-harp\\enumiration24\\VirtualMethods20.csproj",
+      "packagesPath": "C:\\Users\\trost\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\trost\\Desktop\\cs-harp\\enumiration24\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trost\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -5,6 +5,7 @@ namespace interface22 {
         private string type;
         private uint price;
         private short weight, lenght;
+        private int mass;
 
         public string Type {
             get {
@@ -31,7 +32,19 @@ namespace interface22 {
             private set{}
         }
 
-        public float max_speed { get; set; }
+        // public int Mass {
+        //     get { return this.mass; }
+        //     set {
+        //         if (value <= 0) {
+        //             this.mass = 1300;
+        //         } else if (value >= 30000) {
+        //             this.mass = 3000;
+        //         } else {
+        //             this.mass = value;
+        //         }
+        //     }
+        // }
+
         public float y { get; set; }
 
 
